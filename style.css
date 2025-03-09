@@ -141,6 +141,7 @@ p{
     margin-top: 5%;
     display: flex;
     justify-content: space-between;
+    overflow: hidden;
 }
 .course-col{
     flex-basis: 31%;
@@ -258,6 +259,7 @@ h3{
     padding: 25px;
     cursor: pointer;
     display: flex;
+    overflow: hidden;
 }
 .testimonials-col img{
     height: 40px;
