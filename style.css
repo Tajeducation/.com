@@ -228,6 +228,7 @@ h3{
     border-radius: 10px;
     margin-bottom: 5%;
     text-align: left;
+    overflow: hidden;
 }
 .facilities-col img{
     width: 100%;
